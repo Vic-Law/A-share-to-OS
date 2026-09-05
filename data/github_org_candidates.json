@@ -1,0 +1,1002 @@
+[
+  {
+    "code": "000001",
+    "name": "平安银行",
+    "domain": "bank.pingan.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "Bank, inc.",
+        "login": "bank",
+        "url": "https://github.com/bank",
+        "blog": "http://bank.co.jp",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000002",
+    "name": "万科A",
+    "domain": "vanke.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000003",
+    "name": "PT 金田A",
+    "domain": "163.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "163",
+        "login": "163",
+        "url": "https://github.com/163",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000004",
+    "name": "*ST 国华",
+    "domain": "sz000004.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000005",
+    "name": "ST 星源",
+    "domain": "fountain.com.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "fountain",
+        "login": "fountain",
+        "url": "https://github.com/Fountain",
+        "blog": "https://fountain.engineering",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000006",
+    "name": "深振业A",
+    "domain": "zhenye.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000007",
+    "name": "全新好",
+    "domain": "sz000007.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000008",
+    "name": "神州高铁",
+    "domain": "shenzhou-gaotie.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000009",
+    "name": "中国宝安",
+    "domain": "chinabaoan.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "chinabaoan",
+        "login": "chinabaoan",
+        "url": "https://github.com/chinabaoan",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000010",
+    "name": "美丽生态",
+    "domain": "eco-beauty.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "mlst",
+        "login": "mlst",
+        "url": "https://github.com/mlst",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000011",
+    "name": "深物业A",
+    "domain": "szwuye.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000012",
+    "name": "南玻A",
+    "domain": "csgholding.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "NBA",
+        "login": "nbA",
+        "url": "https://github.com/NBA",
+        "blog": "https://www.nba.com",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000013",
+    "name": "*ST 石化A",
+    "domain": "vip.sina.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "Vipshop Holdings Limited",
+        "login": "vip",
+        "url": "https://github.com/Vip",
+        "blog": "www.vip.com",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000014",
+    "name": "沙河股份",
+    "domain": "shahe.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "shgf",
+        "login": "shgf",
+        "url": "https://github.com/shgf",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000015",
+    "name": "PT 中浩A",
+    "domain": "21cn.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "21cn",
+        "login": "21cn",
+        "url": "https://github.com/21cn",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000016",
+    "name": "深康佳A",
+    "domain": "konka.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000017",
+    "name": "深中华A",
+    "domain": "szcbc.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000018",
+    "name": "神州长城",
+    "domain": "sgwde.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "szzc",
+        "login": "szzc",
+        "url": "https://github.com/szzc",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000019",
+    "name": "深粮控股",
+    "domain": "slkg1949.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000020",
+    "name": "深华发A",
+    "domain": "hwafa.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000021",
+    "name": "深科技",
+    "domain": "kaifa.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000022",
+    "name": "深赤湾A",
+    "domain": "szcwh.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000023",
+    "name": "ST 深天",
+    "domain": "sztiandi.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "Sst",
+        "login": "Sst",
+        "url": "https://github.com/sst",
+        "blog": "https://github.com/anomalyco",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000024",
+    "name": "招商地产",
+    "domain": "cmpd.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000025",
+    "name": "特力A",
+    "domain": "tellus.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "Telia",
+        "login": "teliA",
+        "url": "https://github.com/telia",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000026",
+    "name": "飞亚达",
+    "domain": "fiytagroup.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "fyd",
+        "login": "fyd",
+        "url": "https://github.com/FYD",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000027",
+    "name": "深圳能源",
+    "domain": "sec.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000028",
+    "name": "国药一致",
+    "domain": "szaccord.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000029",
+    "name": "深深房A",
+    "domain": "sfjt.com.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "ssfA",
+        "login": "ssfA",
+        "url": "https://github.com/ssfa",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000030",
+    "name": "富奥股份",
+    "domain": "fawer.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000031",
+    "name": "大悦城",
+    "domain": "grandjoy.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "УчебнаяПрактикаПВ000031",
+        "login": "000031",
+        "url": "https://github.com/000031",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000032",
+    "name": "深桑达A",
+    "domain": "sedind.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000033",
+    "name": "*ST 新都",
+    "domain": "szcphotel.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000034",
+    "name": "神州数码",
+    "domain": "digitalchina.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "digitalchina",
+        "login": "digitalchina",
+        "url": "https://github.com/digitalchina",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000035",
+    "name": "中国天楹",
+    "domain": "cnty.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000036",
+    "name": "华联控股",
+    "domain": "udcgroup.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000037",
+    "name": "深南电A",
+    "domain": "nsrd.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000038",
+    "name": "深大通",
+    "domain": "chinadatong.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000039",
+    "name": "中集集团",
+    "domain": "cimc.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000040",
+    "name": "东旭蓝天",
+    "domain": "dongxulantian.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000042",
+    "name": "中洲控股",
+    "domain": "zztzkg.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000043",
+    "name": "中航善达",
+    "domain": "avicsunda.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000045",
+    "name": "深纺织A",
+    "domain": "chinasthc.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000046",
+    "name": "泛海控股",
+    "domain": "fhkg.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000047",
+    "name": "ST 中侨",
+    "domain": "163.net",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "163",
+        "login": "163",
+        "url": "https://github.com/163",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000048",
+    "name": "京基智农",
+    "domain": "kingkeyzn.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000049",
+    "name": "德赛电池",
+    "domain": "desaybattery.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000050",
+    "name": "深天马A",
+    "domain": "tianma.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000055",
+    "name": "方大集团",
+    "domain": "fangda.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "fangda",
+        "login": "fangda",
+        "url": "https://github.com/fangda",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000056",
+    "name": "皇庭国际",
+    "domain": "wongtee000056.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000058",
+    "name": "深赛格",
+    "domain": "segcl.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000059",
+    "name": "华锦股份",
+    "domain": "huajinchem.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000060",
+    "name": "中金岭南",
+    "domain": "nonfemet.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000061",
+    "name": "农产品",
+    "domain": "szap.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000062",
+    "name": "深圳华强",
+    "domain": "szhq000062.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "szhq",
+        "login": "szhq",
+        "url": "https://github.com/Szhq",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000063",
+    "name": "中兴通讯",
+    "domain": "zte.com.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "ZTE",
+        "login": "zte",
+        "url": "https://github.com/ZTE",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000065",
+    "name": "北方国际",
+    "domain": "norinco-intl.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000066",
+    "name": "中国长城",
+    "domain": "greatwall.com.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "000066",
+        "login": "000066",
+        "url": "https://github.com/000066",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000068",
+    "name": "华控赛格",
+    "domain": "huakongseg.com.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "hksg",
+        "login": "hksg",
+        "url": "https://github.com/hksg",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000069",
+    "name": "华侨城A",
+    "domain": "octholding.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000070",
+    "name": "特发信息",
+    "domain": "sdgi.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000078",
+    "name": "海王生物",
+    "domain": "neptunusbio.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000088",
+    "name": "盐田港",
+    "domain": "yantian-port.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000089",
+    "name": "深圳机场",
+    "domain": "szairport.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000090",
+    "name": "天健集团",
+    "domain": "tagen.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "tjjt",
+        "login": "tjjt",
+        "url": "https://github.com/tjjt",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000096",
+    "name": "广聚能源",
+    "domain": "gj000096.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "gjny",
+        "login": "gjny",
+        "url": "https://github.com/GJNY",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000099",
+    "name": "中信海直",
+    "domain": "cohc.citic",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "cohc",
+        "login": "cohc",
+        "url": "https://github.com/cohc",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000100",
+    "name": "TCL科技",
+    "domain": "tcltech.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000150",
+    "name": "*ST 宜康",
+    "domain": "yihuahealth.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000151",
+    "name": "中成股份",
+    "domain": "complant-ltd.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000153",
+    "name": "丰原药业",
+    "domain": "bbcayy.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000155",
+    "name": "川能动力",
+    "domain": "cndl155.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000156",
+    "name": "华数传媒",
+    "domain": "wasu.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000157",
+    "name": "中联重科",
+    "domain": "zoomlion.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000158",
+    "name": "常山北明",
+    "domain": "csbmkj.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000159",
+    "name": "国际实业",
+    "domain": "xjgjsy.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000166",
+    "name": "申万宏源",
+    "domain": "swhygh.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000301",
+    "name": "东方盛虹",
+    "domain": "jsessh.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "dfsh",
+        "login": "dfsh",
+        "url": "https://github.com/DFSH",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000333",
+    "name": "美的集团",
+    "domain": "midea.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000338",
+    "name": "潍柴动力",
+    "domain": "weichaipower.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000400",
+    "name": "许继电气",
+    "domain": "xjec.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000401",
+    "name": "金隅冀东",
+    "domain": "jdsn.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000402",
+    "name": "金融街",
+    "domain": "jrjkg.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000403",
+    "name": "派林生物",
+    "domain": "plbio.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000404",
+    "name": "长虹华意",
+    "domain": "hua-yi.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "hua-yi",
+        "login": "hua-yi",
+        "url": "https://github.com/hua-yi",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000405",
+    "name": "ST 鑫光",
+    "domain": "sina.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000406",
+    "name": "石油大明",
+    "domain": "sydm.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000407",
+    "name": "胜利股份",
+    "domain": "vicome.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000408",
+    "name": "藏格矿业",
+    "domain": "zanggekuangye.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000409",
+    "name": "云鼎科技",
+    "domain": "yundingkeji.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000410",
+    "name": "沈阳机床",
+    "domain": "smtcl.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "smtcl",
+        "login": "smtcl",
+        "url": "https://github.com/SMTCL",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000411",
+    "name": "英特集团",
+    "domain": "intmedic.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000412",
+    "name": "北方五环",
+    "domain": "mail.jl.cn",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "Mail",
+        "login": "mail",
+        "url": "https://github.com/mail",
+        "blog": "https://www.mailgem.org/",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  },
+  {
+    "code": "000413",
+    "name": "东旭光电",
+    "domain": "dongxuguangdian.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000415",
+    "name": "渤海租赁",
+    "domain": "bohaileasing.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000416",
+    "name": "*ST 民控",
+    "domain": "mskg.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000417",
+    "name": "合百集团",
+    "domain": "hfbh.com.cn",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000418",
+    "name": "小天鹅A",
+    "domain": "littleswan.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000419",
+    "name": "通程控股",
+    "domain": "e-tongcheng.com",
+    "confirmed": false,
+    "candidates": []
+  },
+  {
+    "code": "000420",
+    "name": "吉林化纤",
+    "domain": "jlhxjt.com",
+    "confirmed": false,
+    "candidates": [
+      {
+        "org_name": "jilinhuaxian",
+        "login": "jilinhuaxian",
+        "url": "https://github.com/jilinhuaxian",
+        "blog": "",
+        "confidence": "medium",
+        "matched_by_domain": false,
+        "followers": 0
+      }
+    ]
+  }
+]
